@@ -1,10 +1,4 @@
 Hello Friends. test edit 16/1/2561 14:08
-<<<<<<< HEAD
-<<<<<<< HEAD
 -------------------------------------------
 Test 21:44
 asd
-=======
->>>>>>> parent of dd09e07... Add test
-=======
->>>>>>> parent of dd09e07... Add test
